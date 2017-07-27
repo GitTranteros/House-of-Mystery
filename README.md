@@ -1,6 +1,5 @@
 
-+House of Mystery
-
+<h1>House of Mystery </h1>
 A textbase game application
 Technologies used : Java , XAMPP , MySql.
 
